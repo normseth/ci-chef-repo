@@ -1,0 +1,6 @@
+{
+  "name" : "test",
+  "description" : "chef environment corresponds to rails environment",
+  "chef_type" : "environment",
+  "json_class" : "Chef::Environment"
+}
